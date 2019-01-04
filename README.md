@@ -13,7 +13,9 @@ Lab-Project ICM 2018, Universidade de Aveiro.
 
 Inicialmente, o utilizador, é direcionado para uma página na qual poderá consultar a informação relativa à meteorologia de um distrito. Caso o utilizador pretenda consultar a meteorologia num outro distrito poderá fazê-lo clicando no icon presente no canto superior direito. É então apresentada uma lista de distritos, sendo que o utilizador poderá optar por visualizar diretamente a informação de meteorologia desse distrito (clicando do "cardview" que lhe está associado), ou pode optar por visualizar primeiro a localização desse distrito (clicando no icon presente no "cardview" que lhe está associado).  Neste último caso, o utilizador é direcionado para um Mapa, que lhe apresenta não só a localização do distrito como também o tipo de tempo que se encontra neste. Apartir deste ponto, o utilizador poderá retroceder para a página anterior (listagem de distritos) ou poderá clicar na localização, sendo posteriormente direcionado para uma págima onde é apresentada toda a informação. 
 
-<img width="550" alt="fluxo" src="https://user-images.githubusercontent.com/44784150/50700635-fb35be00-1042-11e9-9cb1-15727c91072e.png">
+<p align="center">
+  <img width="550" alt="fluxo" src="https://user-images.githubusercontent.com/44784150/50700635-fb35be00-1042-11e9-9cb1-15727c91072e.png">
+</p>
 
 #### Arquitetura Implementada:
 
